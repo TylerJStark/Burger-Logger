@@ -1,0 +1,27 @@
+{
+  "name": "burger-logger",
+  "version": "1.0.0",
+  "description": "Burger app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerJStark/Burger-Logger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Tyler J Stark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerJStark/Burger-Logger/issues"
+  },
+  "homepage": "https://github.com/TylerJStark/Burger-Logger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
