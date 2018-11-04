@@ -17,4 +17,4 @@ A "Burger Logging" application -- basically exactly as the title says, it logs b
 ##### Getting Started
 * **Clone or fork, do an npm install and run using npm start in the command line.**
 * **Or**
-* **Go to the Heroku site where it is deployed: https://dashboard.heroku.com/apps/burgerslogger **
+* **Go to the Heroku site where it is deployed: https://burgerslogger.herokuapp.com/ **
